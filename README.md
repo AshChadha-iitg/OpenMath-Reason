@@ -121,18 +121,6 @@ python benchmark_combined.py
 
 ---
 
-# Citation
-
-```bibtex
-@article{openmathreason2026,
-  title={OpenMath-Reason: Optimizing Mathematical Reasoning in Tiny Language Models with LoRA},
-  author={Ashish Chadha},
-  year={2026}
-}
-```
-
----
-
 # License
 
 Apache 2.0
