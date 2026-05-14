@@ -1,0 +1,29 @@
+Qwen2.5-Math-1.5B:
+GSM8K Accuracy: 14.50%
+OpenMath Accuracy: 26.00%
+Combined Accuracy: 20.25%
+Average Generation Time: 1.87 sec
+
+Qwen2.5-Math-1.5B-LoRA:
+GSM8K Accuracy: 29.00%
+OpenMath Accuracy: 26.00%
+Combined Accuracy: 27.50%
+Average Generation Time: 3.18 sec
+
+Qwen3-1.7B:
+GSM8K Accuracy: 6.00%
+OpenMath Accuracy: 17.00%
+Combined Accuracy: 11.50%
+Average Generation Time: 2.34 sec
+
+Qwen3.5-2B-Base:
+GSM8K Accuracy: 20.50%
+OpenMath Accuracy: 24.00%
+Combined Accuracy: 22.25%
+Average Generation Time: 2.86 sec
+
+DeepSeek-R1-Distill-Qwen-1.5B:
+GSM8K Accuracy: 5.50%
+OpenMath Accuracy: 14.00%
+Combined Accuracy: 9.75%
+Average Generation Time: 1.95 sec
