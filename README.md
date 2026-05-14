@@ -65,28 +65,6 @@ Chain-of-thought mathematical reasoning dataset.
 
 ---
 
-# Combined Accuracy Across Models
-
-<img width="3600" height="1800" alt="updated_combined_accuracy_graph" src="https://github.com/user-attachments/assets/f7c9245c-0fa2-4dfa-a6bf-46f44676ba63" />
-
-
----
-
-# Intelligence vs Inference Time
-
-<img width="3600" height="1800" alt="updated_intelligence_vs_time_graph" src="https://github.com/user-attachments/assets/78a10c26-e4a1-42b8-a92f-eb575d4de5e3" />
-
-
----
-
-# GSM8K vs OpenMath Performance
-
-<img width="3600" height="1800" alt="updated_dataset_comparison_graph" src="https://github.com/user-attachments/assets/dfb7bdc8-534b-432f-842c-b86b13f7a27f" />
-
-
----
-
-
 # Training
 
 The model was fine-tuned using:
